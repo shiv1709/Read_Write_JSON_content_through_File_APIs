@@ -1,0 +1,2 @@
+# Read_Write_JSON_content_through_File_APIs
+This is a project developed using Spring MVC which will write the passed JSON object as payload to a file on location which user will specify in program using PUT API implemented in this project for this task to perform and can read the JSON object from file from the same location where file was created using PUT API by the user through GET API implemented in this project for this task to perform. 
